@@ -51,6 +51,7 @@ Import the SQL structure
 $ mysql -u root -p app < sql/app.sql
 ```
 
+<<<<<<< HEAD
 ## Installtaion with [Homestead](http://laravel.com/docs/4.2/homestead)
 
 Please read [Chinese Blog](http://blog.wu-boy.com/2014/12/codeigniter-with-homestead-development/) or refer the following steps.
@@ -100,6 +101,8 @@ $ homestead up --provision
 ```
 
 open youre browser url: http://codeigniter.app:8000
+=======
+>>>>>>> parent of 1464883 (Add integrate with homestead)
 ## Screenshot
 
 <img src="https://raw.githubusercontent.com/appleboy/CodeIgniter-App/master/screenshot/screenshot.png" alt="screenshot" />
